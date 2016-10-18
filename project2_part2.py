@@ -1,3 +1,5 @@
+#Program that cross references times for final exams at Ball State with an official CSV and tells the user if there are any errors between the two. 
+#Similar to part 1 because it uses the same find_exam_time function. 
 import csv
 
 def find_exam_time(time, period, credit_hours, days):
