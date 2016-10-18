@@ -1,3 +1,6 @@
+#Program that collects user inputs in a list and then runs each list item through the find_exam_time function. 
+#Each result is then printed, along with other identifying information, for user to tell what time all of their final exams are. 
+
 def find_exam_time(time, period, credit_hours, days):
     final_time = ""
     if time == "8:00":
