@@ -1,3 +1,5 @@
+#Simple program that takes an input and tells the user what time their final exam is. 
+
 def find_exam_time(time, period, credit_hours, days, math_com):
     final_time = ""
     if time == "8:00":
